@@ -1,7 +1,7 @@
 #include <iostream>
 #include <cmath>
 using namespace std;
-void inputData(double a[][4]){
+void inputData(double a[][4]){ 
     for(int i=0;i<3;i++){
       cout<<"Enter the coefficient of equation "<<i+1<<endl;
         for(int j=0;j<4;j++){
